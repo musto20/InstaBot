@@ -1,8 +1,10 @@
 #include <iostream>
+using namespace std;
 int main()
 {
-
-	std::cout << "Merhaba \a Dunya";
+	int sayi;
+	cout << "Merhaba \a Dunya";
+	cin >> sayi;
 	system("PAUSE");
 	return 0;
 }
